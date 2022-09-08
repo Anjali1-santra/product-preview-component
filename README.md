@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![my Screenshot](images\Screenshot.png)
+![my Screenshot](https://github.com/Anjali1-santra/product-preview-component/blob/main/images/Screenshot.png)
 
 ### Built with
 
